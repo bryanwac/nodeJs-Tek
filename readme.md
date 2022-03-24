@@ -9,4 +9,4 @@
     <li> Run: npm install body-parser </li>
     <li> Run: npm install express </li>
   </ul>
-  <p>Developed for nodeJS classes project</p>
+  <p>Developed for TekNisa nodeJS classes project</p>
